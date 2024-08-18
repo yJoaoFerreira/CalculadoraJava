@@ -3,3 +3,5 @@ Uma calculadora desenvolvida em Java para o projeto de "Java Orientada a Objetos
 
 - Necessário utilizar a versão 17 do Java para utilizar a calculadora.
 - Programa desenvolvido na IDE NetBeans.
+- UML desenvolvida em extensão do Eclipse.
+- Slides criados no PowerPoint.
